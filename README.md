@@ -16,3 +16,7 @@ Loading and Evaluating the Model
 The dataset used for this project was the SMILE Twitter dataset.  
 Wang, Bo; Tsakalidis, Adam; Liakata, Maria; Zubiaga, Arkaitz; Procter, Rob; Jensen, Eric (2016): SMILE Twitter Emotion dataset. figshare. Dataset.  
 https://doi.org/10.6084/m9.figshare.3187909.v2
+
+# Implementation
+Run the main.py file's code in Google colab in order to train the model using GPU.  
+Make sure to include the SMILE dataset in colab.  
