@@ -2,6 +2,8 @@
 import torch
 !pip install transformers
 import pandas as pd
+!pip install -U tensorflow-addons
+!pip install -q "tqdm>=4.36.1"
 from tqdm.notebook import tqdm
 from sklearn.model_selection import train_test_split
 from transformers import BertTokenizer
